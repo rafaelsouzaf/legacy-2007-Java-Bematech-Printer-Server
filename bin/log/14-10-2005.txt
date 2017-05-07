@@ -1,0 +1,71 @@
+
+-------------------------------------------
+Horário:  10:06
+Mensagem: Servidor iniciou
+-------------------------------------------
+Horário:  10:09
+Mensagem: Nennhuma impressora foi encontrada.
+-------------------------------------------
+Horário:  10:09
+Mensagem: Nao foi possível imprimir o texto: 
+*** COMPROVANTE DE EMPRESTIMO *** 
+
+Data: 14/10/2005
+Biblioteca IPUC 
+Fone: 0xx51 2103.3000, R.3035
+biblioteca@ipuc.com.br
+http://www.ipuc.com.br/
+
+Luiz Carlos de Mello (6904)
+Recebemos o valor de R$ 17 refe-
+rente ao pagamento da multa de
+atraso na devoluçao do livro
+ dic. L.P.(3356) 
+
+ ___________________
+ Aluno(a)
+
+ ___________________
+ Bibliotecario(a)
+
+
+
+
+
+
+
+
+
+-------------------------------------------
+Horário:  10:16
+Mensagem: Nennhuma impressora foi encontrada.
+-------------------------------------------
+Horário:  10:16
+Mensagem: Nao foi possível imprimir o texto: 
+*** COMPROVANTE DE EMPRESTIMO *** 
+
+Data: 14/10/2005
+Biblioteca IPUC 
+Fone: 0xx51 2103.3000, R.3035
+biblioteca@ipuc.com.br
+http://www.ipuc.com.br/
+
+Luiz Carlos de Mello (6904)
+Recebemos o valor de R$ 17 refe-
+rente ao pagamento da multa de
+atraso na devoluçao do livro
+ dic. L.P.(3356) 
+
+ ___________________
+ Aluno(a)
+
+ ___________________
+ Bibliotecario(a)
+
+
+
+
+
+
+
+
